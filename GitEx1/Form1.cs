@@ -34,7 +34,11 @@ namespace GitEx1
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             MessageBox.Show("CheckBox");
+=======
+            label1.Text = "CheckBox";
+>>>>>>> BranchEx1
         }
     }
 }
